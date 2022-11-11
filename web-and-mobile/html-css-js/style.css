@@ -1,0 +1,17 @@
+p
+{
+    color: aqua;
+}
+
+.header-background
+{
+    background-color: black;
+    color: white;
+    text-decoration: underline;
+}
+
+#bigger-font
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+}
